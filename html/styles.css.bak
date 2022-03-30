@@ -1,0 +1,20 @@
+img {
+	
+border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+}
+
+
+	body{font-family: Arial;}
+	#specialstyle {
+		width: 30%;
+		
+	background-color: black;
+	}
+	
+<div class="header">
+  <h1>Header</h1>
+  <p>My supercool header</p>
+</div>
